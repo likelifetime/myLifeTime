@@ -1,0 +1,7 @@
+C:\Users\start\Documents\git\myLifeTime\myLifeTime\myLifeTime\bin\Debug\myLifeTime.exe.config
+C:\Users\start\Documents\git\myLifeTime\myLifeTime\myLifeTime\bin\Debug\myLifeTime.exe
+C:\Users\start\Documents\git\myLifeTime\myLifeTime\myLifeTime\bin\Debug\myLifeTime.pdb
+C:\Users\start\Documents\git\myLifeTime\myLifeTime\myLifeTime\obj\Debug\myLifeTime.csprojAssemblyReference.cache
+C:\Users\start\Documents\git\myLifeTime\myLifeTime\myLifeTime\obj\Debug\myLifeTime.csproj.CoreCompileInputs.cache
+C:\Users\start\Documents\git\myLifeTime\myLifeTime\myLifeTime\obj\Debug\myLifeTime.exe
+C:\Users\start\Documents\git\myLifeTime\myLifeTime\myLifeTime\obj\Debug\myLifeTime.pdb
